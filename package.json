@@ -1,0 +1,20 @@
+{
+  "name": "template_type_script",
+  "version": "0.1.0",
+  "description": "template repository for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsy0911/TemplateTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsy0911/TemplateTypeScript/issues"
+  },
+  "homepage": "https://github.com/gsy0911/TemplateTypeScript#readme"
+}
