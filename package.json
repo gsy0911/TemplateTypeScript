@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/gsy0911/TemplateTypeScript/issues"
   },
-  "homepage": "https://github.com/gsy0911/TemplateTypeScript#readme"
+  "homepage": "https://github.com/gsy0911/TemplateTypeScript#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.21",
+    "typescript": "^4.1.3"
+  }
 }
