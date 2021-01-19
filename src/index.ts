@@ -1,5 +1,5 @@
 const example = () => {
-	console.log("hello, world!")
-}
+	console.log("hello, world!");
+};
 
-example()
+example();

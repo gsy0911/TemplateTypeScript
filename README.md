@@ -12,8 +12,23 @@ $ yarn -v
 
 $ npx tsc --version
 Version 4.1.3
+
+$ ./node_modules/.bin/eslint --version
+v7.18.0
+
+$ ./node_modules/.bin/prettier --version
+2.2.1
 ```
 
+## installed package
+
+- ts-node
+- ts-node-dev
+- npm-run-all
+- rimraf
+- ESLint
+- Prettier
+- husky & lint-staged
 
 # commands
 
@@ -32,5 +47,7 @@ $ npm run start
 ```
 
 # References
-* [TypeScript + Node.js プロジェクトのはじめかた](https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49)
-* [tsconfig.jsonの全オプションを理解する](https://qiita.com/ryokkkke/items/390647a7c26933940470)
+
+- [TypeScript + Node.js プロジェクトのはじめかた](https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49)
+- [TypeScript + Node.jsプロジェクトにESLint + Prettierを導入する手順](https://qiita.com/notakaos/items/85fd2f5c549f247585b1)
+- [tsconfig.jsonの全オプションを理解する](https://qiita.com/ryokkkke/items/390647a7c26933940470)
