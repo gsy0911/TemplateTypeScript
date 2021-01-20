@@ -15,7 +15,8 @@
     "eslint:fix": "eslint src/**/*.ts --fix",
     "format": "prettier --write 'src/**/*.{js,ts,json}'",
     "lint": "npm-run-all eslint check-types",
-    "lint:fix": "npm-run-all eslint:fix check-types format"
+	"lint:fix": "npm-run-all eslint:fix check-types format",
+	"commit-msg": "commitlint -e $GIT_PARAMS"
   },
   "repository": {
     "type": "git",
@@ -47,8 +48,7 @@
   },
   "husky": {
     "hooks": {
-	  "pre-commit": "lint-staged",
-	  "commitmsg": "commitlint -e $GIT_PARAMS"
+	  "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
