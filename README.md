@@ -22,13 +22,17 @@ $ ./node_modules/.bin/prettier --version
 
 ## installed package
 
-- ts-node
-- ts-node-dev
-- npm-run-all
-- rimraf
-- ESLint
-- Prettier
-- husky & lint-staged
+- Development
+    - ts-node
+    - ts-node-dev
+    - npm-run-all
+    - rimraf
+- Lint
+    - ESLint
+    - Prettier
+- Commit
+    - husky 
+    - lint-staged
 
 # commands
 
