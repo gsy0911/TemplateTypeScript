@@ -20,7 +20,14 @@ $ ./node_modules/.bin/prettier --version
 2.2.1
 ```
 
-## installed package
+## setup
+
+- `package.json`
+    - name
+	- description
+	- GitHub URLs
+
+## installed packages
 
 - Development
     - ts-node
@@ -34,6 +41,13 @@ $ ./node_modules/.bin/prettier --version
     - husky 
     - lint-staged
 
+
+## recommended packages
+
+- [date-fns](https://date-fns.org/)
+    - Modern JavaScript date utility library
+- [fast-csv](https://www.c2fo.io/fast-csv/)
+    - CSV Parser and Formatter
 # commands
 
 ```shell
