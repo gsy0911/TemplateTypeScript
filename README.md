@@ -41,13 +41,27 @@ $ ./node_modules/.bin/prettier --version
     - husky 
     - lint-staged
 
+### not recommended packages
+
+- eslint-loader
+- shortid
+    - shortid is deprecated, because the architecture is unsafe.
 
 ## recommended packages
 
-- [date-fns](https://date-fns.org/)
-    - Modern JavaScript date utility library
+- Date
+	- [Moment.js]()
+	- [Day.js]()
+	- [Luxon]()
+    - [date-fns](https://date-fns.org/)
+        - Modern JavaScript date utility library
 - [fast-csv](https://www.c2fo.io/fast-csv/)
     - CSV Parser and Formatter
+- [fs-extra]()
+- [nanoid](https://github.com/ai/nanoid/)
+    - instead of `shortid`
+- [graphdoc](https://github.com/2fd/graphdoc)
+    - Static page generator for documenting GraphQL Schema
 # commands
 
 ```shell
