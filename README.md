@@ -55,13 +55,21 @@ $ ./node_modules/.bin/prettier --version
 	- [Luxon]()
     - [date-fns](https://date-fns.org/)
         - Modern JavaScript date utility library
-- [fast-csv](https://www.c2fo.io/fast-csv/)
-    - CSV Parser and Formatter
-- [fs-extra]()
+- FileSystem
+	- [fast-csv](https://www.c2fo.io/fast-csv/)
+		- CSV Parser and Formatter
+    - [fs-extra](https://github.com/jprichardson/node-fs-extra)
+		- adds file system methods that aren't included in the native fs module and adds promise support to the fs methods.
 - [nanoid](https://github.com/ai/nanoid/)
     - instead of `shortid`
 - [graphdoc](https://github.com/2fd/graphdoc)
     - Static page generator for documenting GraphQL Schema
+- [pixela](https://github.com/a-know/Pixela)
+    - Record and Track your habits or effort. All by API.
+- [redux](https://github.com/reduxjs/redux)
+	- Redux is a predictable state container for JavaScript apps
+	- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
+
 # commands
 
 ```shell
