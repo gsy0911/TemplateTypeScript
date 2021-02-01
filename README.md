@@ -60,6 +60,13 @@ $ ./node_modules/.bin/prettier --version
 		- CSV Parser and Formatter
     - [fs-extra](https://github.com/jprichardson/node-fs-extra)
 		- adds file system methods that aren't included in the native fs module and adds promise support to the fs methods.
+- UI (CSS-in-JS, etc...)
+    - [emotion](https://github.com/emotion-js/emotion)
+        - Emotion is a performant and flexible CSS-in-JS library
+    - [styled-components](https://github.com/styled-components/styled-components)
+        - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
+    - [material-ui](https://github.com/mui-org/material-ui)
+        - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications
 - [nanoid](https://github.com/ai/nanoid/)
     - instead of `shortid`
 - [graphdoc](https://github.com/2fd/graphdoc)
