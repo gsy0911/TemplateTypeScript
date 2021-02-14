@@ -69,18 +69,27 @@ $ ./node_modules/.bin/prettier --version
         - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
     - [material-ui](https://github.com/mui-org/material-ui)
         - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications
+	- [quasar](https://github.com/quasarframework/quasar)
+		- Quasar Framework - Build high-performance VueJS user interfaces in record time
 - AWS
 	- [AWS SDK for JavaScript v3](https://github.com/aws/aws-sdk-js-v3)
-	- [Documents for Javascript v3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/)
-- [nanoid](https://github.com/ai/nanoid/)
-    - instead of `shortid`
-- [graphdoc](https://github.com/2fd/graphdoc)
-    - Static page generator for documenting GraphQL Schema
-- [pixela](https://github.com/a-know/Pixela)
-    - Record and Track your habits or effort. All by API.
-- [redux](https://github.com/reduxjs/redux)
-	- Redux is a predictable state container for JavaScript apps
-	- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
+		- [Documents for Javascript v3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/)
+- DI
+	- [InversifyJS](https://github.com/inversify/InversifyJS)
+		- A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+- GraphQL
+	- [apollo-client](https://github.com/apollographql/apollo-client)
+		- 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- not classified
+	- [nanoid](https://github.com/ai/nanoid/)
+		- instead of `shortid`
+	- [graphdoc](https://github.com/2fd/graphdoc)
+		- Static page generator for documenting GraphQL Schema
+	- [pixela](https://github.com/a-know/Pixela)
+		- Record and Track your habits or effort. All by API.
+	- [redux](https://github.com/reduxjs/redux)
+		- Redux is a predictable state container for JavaScript apps
+		- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
 
 # commands
 
