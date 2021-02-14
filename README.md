@@ -5,7 +5,7 @@ $ node -v
 v15.6.0
 
 $ npm -v
-7.4.0
+7.5.2
 
 $ yarn -v
 1.22.10
@@ -46,6 +46,8 @@ $ ./node_modules/.bin/prettier --version
 - eslint-loader
 - shortid
     - shortid is deprecated, because the architecture is unsafe.
+- aws-sdk(v2)
+	- should use aws-sdk(v3)
 
 ## recommended packages
 
@@ -67,6 +69,9 @@ $ ./node_modules/.bin/prettier --version
         - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
     - [material-ui](https://github.com/mui-org/material-ui)
         - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications
+- AWS
+	- [AWS SDK for JavaScript v3](https://github.com/aws/aws-sdk-js-v3)
+	- [Documents for Javascript v3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/)
 - [nanoid](https://github.com/ai/nanoid/)
     - instead of `shortid`
 - [graphdoc](https://github.com/2fd/graphdoc)
