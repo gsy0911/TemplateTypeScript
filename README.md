@@ -91,6 +91,23 @@ $ ./node_modules/.bin/prettier --version
 		- Redux is a predictable state container for JavaScript apps
 		- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
 
+## recommended Repository to read
+
+- [ECMAScript proposals](https://github.com/tc39/proposals)
+	- Tracking ECMAScript Proposals
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+	- This repository contains JavaScript based examples of many popular algorithms and data structures.
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+	- 🛁 Clean Code concepts adapted for JavaScript
+- [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+	- The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
+
+- [awesome](https://github.com/sindresorhus/awesome)
+	- 😎 Awesome lists about all kinds of interesting topics
+	- [awesome node.js](https://github.com/sindresorhus/awesome-nodejs#readme)
+
 # commands
 
 ```shell
