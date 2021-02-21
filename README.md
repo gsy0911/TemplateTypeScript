@@ -80,6 +80,13 @@ $ ./node_modules/.bin/prettier --version
 - GraphQL
 	- [apollo-client](https://github.com/apollographql/apollo-client)
 		- 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- React
+	- [redux](https://github.com/reduxjs/redux)
+		- Redux is a predictable state container for JavaScript apps
+		- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
+	- [typescript-fsa](https://github.com/aikoven/typescript-fsa)
+		- Type-safe action creator utilities
+
 - not classified
 	- [nanoid](https://github.com/ai/nanoid/)
 		- instead of `shortid`
@@ -87,9 +94,6 @@ $ ./node_modules/.bin/prettier --version
 		- Static page generator for documenting GraphQL Schema
 	- [pixela](https://github.com/a-know/Pixela)
 		- Record and Track your habits or effort. All by API.
-	- [redux](https://github.com/reduxjs/redux)
-		- Redux is a predictable state container for JavaScript apps
-		- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
 
 ## recommended Repository to read
 
