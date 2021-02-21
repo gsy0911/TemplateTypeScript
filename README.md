@@ -86,7 +86,21 @@ $ ./node_modules/.bin/prettier --version
 		- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
 	- [typescript-fsa](https://github.com/aikoven/typescript-fsa)
 		- Type-safe action creator utilities
-
+- CLI
+	- [Node.jsでのCLIの作り方と便利なライブラリまとめ](https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10)
+- Charts
+	- [Recharts](https://github.com/recharts/recharts)
+		- [demo](http://recharts.org/en-US/examples)
+	- [Victory](https://github.com/FormidableLabs/victory)
+		- [demo](https://formidable.com/open-source/victory/guides/custom-components)
+	- [React VIS](https://github.com/uber/react-vis)
+		- [demo](https://uber.github.io/react-vis/examples/showcases/plots)
+	- [visx](https://github.com/airbnb/visx)
+		- [demo](https://vx-demo.now.sh/gallery)
+	- [Nivo](https://github.com/plouc/nivo)
+		- [demo](https://nivo.rocks/components)
+	- [React ChartJS 2](https://github.com/jerairrest/react-chartjs-2)
+	- [React向けチャート描画ライブラリ Top 6](https://qiita.com/quzq/items/8dc0ab885ab6a3c9cd77)
 - not classified
 	- [nanoid](https://github.com/ai/nanoid/)
 		- instead of `shortid`
