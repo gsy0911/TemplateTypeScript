@@ -86,6 +86,8 @@ $ ./node_modules/.bin/prettier --version
 		- [Redux 入門 〜Reduxの基礎を理解する〜](https://qiita.com/soarflat/items/bd319695d156654bbe86)
 	- [typescript-fsa](https://github.com/aikoven/typescript-fsa)
 		- Type-safe action creator utilities
+	- [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+		- The official, opinionated, batteries-included toolset for efficient Redux development
 - CLI
 	- [Node.jsでのCLIの作り方と便利なライブラリまとめ](https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10)
 - Charts
@@ -121,7 +123,7 @@ $ ./node_modules/.bin/prettier --version
 - [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 	- The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
-
+- [file placement approach : Re-Ducks pattern](https://www.freecodecamp.org/news/scaling-your-redux-app-with-ducks-6115955638be/)
 - [awesome](https://github.com/sindresorhus/awesome)
 	- 😎 Awesome lists about all kinds of interesting topics
 	- [awesome node.js](https://github.com/sindresorhus/awesome-nodejs#readme)
